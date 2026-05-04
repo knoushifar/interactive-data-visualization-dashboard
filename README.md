@@ -101,7 +101,6 @@ docs/visualization_index.html
 - Plotly dashboard-style charting
 - statistical distribution analysis
 - GitHub project organization
-- portfolio documentation
 
 ## Possible Improvements
 
