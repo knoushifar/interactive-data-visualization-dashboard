@@ -60,7 +60,7 @@ interactive-data-visualization-dashboard/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/interactive-data-visualization-dashboard.git
+git clone https://github.com/knoushifar/interactive-data-visualization-dashboard.git
 cd interactive-data-visualization-dashboard
 ```
 
